@@ -13,3 +13,30 @@ insert data
 
 insert multiple data
 ->insert into <tname> (c1,c2,c3) values (a1,a2,a3),(b1,b2,b3);
+
+select query 
+->to select the data 
+	(Syntax)
+	select *
+	from <tname>
+
+comments 
+-> '--' single line comment
+   /* 
+	multiline comment
+   */ 
+
+order by
+-> to arrange data in accending and decending 
+   default asc
+
+DDL 
+data defination language
+(structure)
+DML
+data manupulation language
+(insert, update)
+DQL
+data query language
+(select)
+
