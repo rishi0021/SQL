@@ -1,0 +1,15 @@
+###############
+day 1
+###############
+
+how to created DB
+->created database <name>;
+
+how to created table
+->created table <tname>
+
+insert data
+->insert into <tname> values(v1,v2,v2);
+
+insert multiple data
+->insert into <tname> (c1,c2,c3) values (a1,a2,a3),(b1,b2,b3);
