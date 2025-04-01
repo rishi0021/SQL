@@ -11,3 +11,5 @@ add column
 
 delete column
 -> alter table Orders$ drop column UserName;
+
+add
