@@ -1,0 +1,13 @@
+########
+day 2 
+
+alter command
+
+change data type 
+->alter table Orders$ alter column OrderDate datetime;
+
+add column
+->alter table Orders$ add UserName varchar(20);
+
+delete column
+-> alter table Orders$ drop column UserName;
